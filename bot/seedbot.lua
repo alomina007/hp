@@ -225,6 +225,7 @@ function create_config( )
    "calc",
    "cpu",
    "download_media",
+   "delplug",
    "dad",
    "echo+",
    "echo+1",
@@ -246,13 +247,11 @@ function create_config( )
    "leave_ban",
    "linkpv",
    "linkshorter",
-   "msg_checks",
    "nerkh",
    "nerkharz",
    "onservice",
    "owners",
    "plugins",
-   "qr",
    "remmsg",
    "sendplug",
    "set",
@@ -295,20 +294,17 @@ function create_config( )
    "ip",
    "stmaker",
    "gituser",
-   "anti_tag",
-   "lock_emoji",
-   "badwd",
+   "anti_tag"'
    "lock_audio",
    "lock_gif",
    "lock_join", 
    "lock_share",
    "lock_photo",
    "lock_video",
-   "type",
-   "short",
+   "type"'
    "ingroup",
-   "Warn",
-   "mean"
+   "Warn"
+   
 
     },
     sudo_users = {208094932,126355654},--Sudo users
