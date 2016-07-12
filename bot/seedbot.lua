@@ -301,7 +301,7 @@ function create_config( )
    "lock_share",
    "lock_photo",
    "lock_video",
-   "type"'
+   "type",
    "ingroup",
    "Warn"
    
